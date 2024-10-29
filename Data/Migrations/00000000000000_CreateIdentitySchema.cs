@@ -1,6 +1,8 @@
 ﻿using Microsoft.EntityFrameworkCore.Metadata;
 using Microsoft.EntityFrameworkCore.Migrations;
+using SmartWebAPI.Data;
 using System;
+
 
 namespace SmartWebAPI.Data.Migrations
 {
